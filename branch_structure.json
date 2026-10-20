@@ -1,0 +1,18 @@
+{
+  "default_branch": "contribution",
+  "branches": [
+    "contribution",
+    "feat/issue-763-150-pts-database-database-vacuum-index-bloat",
+    "origin"
+  ],
+  "parent": {
+    "contribution": null,
+    "feat/issue-763-150-pts-database-database-vacuum-index-bloat": "contribution",
+    "origin": "contribution"
+  },
+  "order": [
+    "contribution",
+    "feat/issue-763-150-pts-database-database-vacuum-index-bloat",
+    "origin"
+  ]
+}
